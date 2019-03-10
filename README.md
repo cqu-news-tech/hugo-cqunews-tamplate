@@ -1,2 +1,2 @@
 # hugo-cqunews-tamplate
-![image](/sources/hugo\ tamplate.png)
+![image](/sources/hugo-tamplate.png)
